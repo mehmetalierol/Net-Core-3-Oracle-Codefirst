@@ -1,0 +1,11 @@
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.deps.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.AssemblyInfo.cs
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.csprojAssemblyReference.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.runtimeconfig.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.runtimeconfig.dev.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-Oracle-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-Oracle-Codefirst.pdb
